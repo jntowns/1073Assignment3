@@ -1,0 +1,10 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    position: absolute;
+    right: 50%;
+    width: 100px;
+    height: auto;
+}
